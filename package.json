@@ -24,6 +24,7 @@
     "react-dom": "^16.13.1",
     "rest": "^2.0.0"
   },
+  "proxy": "http://localhost:8080",
   "scripts": {
     "watch": "webpack --watch -d --output ./target/classes/static/built/bundle.js"
   },

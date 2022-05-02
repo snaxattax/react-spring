@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.jackxample.reactspring.ReactSpringApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.58 s - in com.jackxample.reactspring.ReactSpringApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.599 s - in com.jackxample.reactspring.ReactSpringApplicationTests
