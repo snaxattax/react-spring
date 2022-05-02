@@ -1,0 +1,6 @@
+com\jackxample\reactspring\entities\Employee.class
+com\jackxample\reactspring\loaders\DatabaseLoader.class
+com\jackxample\reactspring\controllers\EmployeesController.class
+com\jackxample\reactspring\controllers\HomeController.class
+com\jackxample\reactspring\repositories\EmployeeRepository.class
+com\jackxample\reactspring\ReactSpringApplication.class
